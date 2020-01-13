@@ -1,5 +1,5 @@
 # Opacidad-en-Lentes
-Estasimulación encuentra la opacidad necesaria en un lente para poder observar el Sol. Hace este cálculo sólo en 441nm.
+Esta simulación encuentra la opacidad necesaria en un lente para poder observar el Sol. Hace este cálculo sólo en 441nm.
 
 Para correr la simulación se puede hacer uso del archivo test.py
 
